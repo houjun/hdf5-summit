@@ -1,0 +1,3 @@
+[submodule "hdf5-work"]
+	path = hdf5-work
+	url = https://github.com/xiexbing/hdf5-work.git
